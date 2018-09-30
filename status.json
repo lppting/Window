@@ -1,0 +1,23 @@
+{
+    "status": {
+        "inside": {
+            "intensity_1": 259, 
+            "temperature_1": 26, 
+            "humidity_1": 47
+        }, 
+        "outside": {
+            "temperature_2": 28, 
+            "intensity_2": 82, 
+            "humidity_2": 44
+        }
+    }, 
+    "Sun": {
+        "Azi": 136.441648025545, 
+        "Where": 0, 
+        "Ele": -47.70814482328986
+    }, 
+    "location": {
+        "lat": 27.717910986460943, 
+        "lng": 112.00832100019389
+    }
+}

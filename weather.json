@@ -1,0 +1,30 @@
+{
+    "pm": {
+        "upDateTime": "2018-09-05 10:00:00", 
+        "co": "18", 
+        "pm10": "57", 
+        "cityrank": 40, 
+        "color": "0", 
+        "o3": "19", 
+        "advice": "0", 
+        "citycount": 578, 
+        "quality": "良", 
+        "so2": "4", 
+        "pm25": "39", 
+        "timestamp": "", 
+        "level": "0", 
+        "aqi": "57", 
+        "no2": "9"
+    }, 
+    "realtime": {
+        "wD": "南风", 
+        "img": "2", 
+        "temp": "34", 
+        "sendibleTemp": "36", 
+        "weather": "阴", 
+        "wS": "1级", 
+        "ziwaixian": "N/A", 
+        "time": "2018-09-05 10:45:00", 
+        "sD": "73"
+    }
+}
